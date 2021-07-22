@@ -49,6 +49,8 @@ function validarForm(e){
     } else {
         e.target.classList.remove('border', 'border-green-500');
         e.target.classList.add('border', 'border-red-500');
+
+        iniciarApp();
         
         mostrarError('Todos los campos son obligatorios');
     }
@@ -67,6 +69,8 @@ function validarForm(e){
         } else {
             e.target.classList.remove('border', 'border-green-500');
             e.target.classList.add('border', 'border-red-500');
+
+            iniciarApp();
             
             mostrarError('El email ingresado es inválido');
         }
