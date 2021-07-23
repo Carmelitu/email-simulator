@@ -40,5 +40,5 @@ Email sent
 
 ## Authors ✒️
 
-* **Seijo Lucas** - *JavaScript* - [Carmelitu](https://github.com/Carmelitu)
+* **Lucas Seijo** - *JavaScript* - [Carmelitu](https://github.com/Carmelitu)
 * **Juan Pablo De La Torre Valdez (Teacher)** - *CSS / HTML* - [Código con Juan](https://codigoconjuan.com/)
