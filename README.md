@@ -4,7 +4,7 @@
 
 Check it out Here: https://email-simulator-carmelitu.netlify.app/
 
-Project made for a JavaScript course on Udemy. The code is in Spanish and its purpose is to operate a shopping cart. I just did the script. HTML and CSS are delivered already finalized by the teacher.
+Project made for a JavaScript course on Udemy. HTML and CSS are delivered already finalized by the teacher.
 
 The site pretends to be a platform for sending emails. It is responsible for validating if the email entered is correct using Email Address Regular Expression. Then, it validates if the entered subject and message fields have data. If so, the site enables the button to send the mail and simulates the sending. It returns a message if it was sent correctly or if there is an error. It also has a function that is responsible for cleaning the fields if desired.
 
